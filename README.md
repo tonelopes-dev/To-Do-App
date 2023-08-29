@@ -26,9 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Este é um aplicativo para criação e organização de tarefas diárias. Conhecido como To-do-List.
-- [Visite o projeto online](https://tonelopes.github.io/To-Do-App/)
+- [Visite o projeto online](https://tonelopes-dev.github.io/To-Do-App/)
 
 
 ---
 
-Feito com ♥ por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
+Feito com ♥ por [Tone Lopes](https://tonelopes-dev.github.io/portfolio/#home)
